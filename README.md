@@ -14,23 +14,6 @@ Estou construindo meu portfólio com projetos práticos, buscando evoluir contin
 - **Pytest** — testes automatizados em Python.
 - **JWT e Argon2** — autenticação e segurança de senhas.
 
-## 📌 Projetos em destaque
-
-### TaskFlow — API REST
-API para gerenciamento de tarefas, desenvolvida com Python e FastAPI, com operações CRUD, autenticação, proteção de rotas e foco em organização e segurança do backend.
-
-🔗 [Ver projeto no GitHub](https://github.com/GlaucioMello/TaskFlow)
-
-### GoWorkerAPI
-Projeto backend em Go, criado para ampliar meus conhecimentos na linguagem e desenvolver serviços utilizando o ecossistema Go.
-
-🔗 [Ver projetos no meu GitHub](https://github.com/GlaucioMello)
-
-### E.V. — Assistente pessoal com IA
-Projeto pessoal de assistente desenvolvido em Python, utilizando Ollama e um modelo de linguagem executado localmente. O projeto explora integração com IA, memória persistente e organização modular.
-
-🔗 [Ver meus repositórios](https://github.com/GlaucioMello)
-
 ## 🎯 Objetivo profissional
 
 Busco uma oportunidade para atuar como desenvolvedor backend júnior, aplicar meus conhecimentos, aprender com profissionais experientes e contribuir para o desenvolvimento de software.
